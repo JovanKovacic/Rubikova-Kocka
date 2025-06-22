@@ -46,9 +46,9 @@ aplikacija se pokrece na http://localhost:8080
 
 ##  Testiranje
 
-- Testovi se nalaze u RubikApplicationTests klasi i pokrivaju:
-  1. Pocetno stanje kocke
-  2. Rotacije
-  3. Reset
-  4. Povratak u pocetno stanje nakon 4 rotacije
+Testovi se nalaze u RubikApplicationTests klasi i pokrivaju:
+-  Pocetno stanje kocke
+-  Rotacije
+-  Reset
+-  Povratak u pocetno stanje nakon 4 rotacije
   
